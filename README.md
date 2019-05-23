@@ -22,7 +22,7 @@ You can do headers as following
 
 ## Lists
 
-unordered list
+Unordered list
 
 ```markdown
 - item
@@ -34,7 +34,9 @@ unordered list
 - item
 - item
 
-ordered list
+---
+
+Ordered list
 
 ```markdown
 1. item
@@ -45,6 +47,21 @@ ordered list
 1. item
 1. item
 1. item
+
+---
+
+Nested lists
+
+```markdown
+- item
+  - sub-item
+    - sub-sub-item
+
+```
+
+- item
+  - sub-item
+    - sub-sub-item
 
 ## Text Format
 
