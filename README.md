@@ -1,6 +1,4 @@
-# Markdown
 
-> a quick reference guide on how to write good markdown for your READMEs :sunglasses:
 
 ## Headers
 
