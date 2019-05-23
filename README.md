@@ -150,10 +150,12 @@ Markdown
 
 ```markdown
 HTML is easy.
+
 *[HTML]: Hyper Text Markup Language
 ```
 
 HTML is easy.
+
 *[HTML]: Hyper Text Markup Language
 
 *<!-- a comment -->*
@@ -162,9 +164,11 @@ HTML is easy.
 
 ```markdown
 the book [^1] has good exercises
+
 [^1]: you can find the book on Google.
 
 ```
 
 the book [^1] has good exercises
+
 [^1]: you can find the book on Google.
