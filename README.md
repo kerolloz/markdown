@@ -1,4 +1,4 @@
-
+# GitHub Markdown Reference
 
 ## Headers
 
@@ -56,12 +56,21 @@ Nested lists
 - item
   - sub-item
     - sub-sub-item
-
 ```
 
 - item
   - sub-item
     - sub-sub-item
+    
+## TODOs
+
+```markdown
+- [x] Learn Python
+- [ ] Learn Java
+```
+
+- [x] Learn Python
+- [ ] Learn Java
 
 ## Text Format
 
