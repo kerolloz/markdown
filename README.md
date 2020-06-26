@@ -148,8 +148,18 @@ down
 
 ## New line
 
-You can make a new line by ending a line with *two or more spaces*
-`you don't have to use <br>`
+You can make a new line by ending a line with *two spaces*, you don't have to use `<br>`.
+
+---
+
+## NOTE
+
+In order to be able to see the effects of the tricks used in the following sections 
+please view it from the [website](//kerolloz.github.io/markdown#definitions).
+
+**Viewing it from GitHub's README won't show the effect!**
+
+---
 
 ## Definitions
 
