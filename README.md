@@ -98,6 +98,15 @@ checkout my [website](https://kerolloz.github.io/)
 ```
 checkout my [website](https://kerolloz.github.io/)
 
+## Image With link
+
+```markdown
+[![image alt text](https://i.imgur.com/sw215.jpeg)](https://imgur.com/gallery/sw215)
+```
+
+[![image alt text](https://i.imgur.com/sw215.jpeg)](https://imgur.com/gallery/sw215)
+
+
 ## Code
 
 ```markdown
