@@ -148,6 +148,12 @@ print("Hello World")
 >block one
 >>nested block
 
+## Table
+
+left aligned | centered | right aligned
+-------------|:--------:|--------------:
+data         | data     | data
+
 ## Horizontal Line
 
 ```markdown
