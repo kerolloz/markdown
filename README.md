@@ -117,13 +117,13 @@ this is a small `code` block
 ----
 
 ~~~~markdown
-this is a block of code
+this is a block of code with syntax highlighting 
 ```python
 print("Hello World")
 ```
 ~~~~
 
-this is a block of code
+this is a block of code with syntax highlighting
 ```python
 print("Hello World")
 ```
@@ -149,6 +149,14 @@ print("Hello World")
 >>nested block
 
 ## Table
+
+Notice the colon `:` place
+
+```markdown
+left aligned | centered | right aligned
+-------------|:--------:|--------------:
+data         | data     | data
+```
 
 left aligned | centered | right aligned
 -------------|:--------:|--------------:
