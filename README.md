@@ -2,8 +2,6 @@
 
 ## Headers
 
-You can do headers as following
-
 ```markdown
 # Header 1
 ## Header 2
@@ -89,6 +87,7 @@ Nested lists
 ```markdown
 ![Alternative text here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
 ```
+
 ![Alternative text here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
 
 ## Links
@@ -96,6 +95,7 @@ Nested lists
 ```markdown
 checkout my [website](https://kerolloz.github.io/)
 ```
+
 checkout my [website](https://kerolloz.github.io/)
 
 ## Image With link
@@ -112,18 +112,19 @@ checkout my [website](https://kerolloz.github.io/)
 ```markdown
 this is a small `code` block
 ```
+
 this is a small `code` block
 
 ----
 
+This is a block of code with syntax highlighting: 
+
 ~~~~markdown
-this is a block of code with syntax highlighting 
 ```python
 print("Hello World")
 ```
 ~~~~
 
-this is a block of code with syntax highlighting
 ```python
 print("Hello World")
 ```
@@ -131,10 +132,9 @@ print("Hello World")
 ## Block quote
 
 ```markdown
-
 >look how this renders
-
 ```
+
 >look how this renders
 
 ---
@@ -142,7 +142,6 @@ print("Hello World")
 ```markdown
 >block one
 >>nested block
-
 ```
 
 >block one
