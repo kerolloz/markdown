@@ -181,6 +181,27 @@ down
 
 You can make a new line by ending a line with *two spaces*, you don't have to use `<br>`.
 
+## Note and Warning
+
+The first line (`> **Note**` or `> **Warning**`) must be exactly as shown below.  
+The first letter is case sensitive. The second line can contain your content.
+
+```
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+```
+
+Becomes:
+
+> **Note**  
+> This is a note
+
+> **Warning**  
+> This is a warning
+
 ---
 
 ## NOTE
