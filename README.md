@@ -192,6 +192,9 @@ You can make a new line by ending a line with *two spaces*, you don't have to us
 
 > [!TIP]
 > This is a tip
+
+> [!IMPORTANT]
+> This is important
 ```
 
 Becomes:
@@ -204,6 +207,9 @@ Becomes:
 
 > [!TIP]
 > This is a tip
+
+> [!IMPORTANT]
+> This is important
 
 ---
 
